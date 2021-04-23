@@ -1,6 +1,9 @@
 # elast
 this is a compiler for c like grammar files
 
+## how to read this project
+just trace the commit logs
+
 ## things to know
 1. what's an executable file on Linux? 
    1.1 `file file_path`
