@@ -17,8 +17,8 @@ this is a compiler for c like grammar files
    2.4 link
    
 3. steps in compile
-   3.1 lexical analysing
-   3.2 syntax analysing/ parse -> syntax tree 
+   3.1 lexical analyze / scan
+   3.2 syntax analyze / parse -> syntax tree 
    3.3 semantic analysis -> AST -> intermediate representation
    3.4 these steps above are front-end of compile
    3.5 code generation
